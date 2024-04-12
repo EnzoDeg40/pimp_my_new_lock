@@ -5,9 +5,9 @@
 
 ## Installation
 
-- Create image called `background` on git folder for set background image.
+- Create images called `background.png` and `avatar.png` in the git folder for setting images on lock screen.
 - Run `./install.sh` (`chmod +x install.sh` if needed).
-Images can be an animated gif. But video is not supported.
+Images can be animated gifs. But video is not supported.
 
 ## Todo
 
