@@ -7,6 +7,7 @@
 
 - Create image called `background` on git folder for set background image.
 - Run `./install.sh` (`chmod +x install.sh` if needed).
+Images can be an animated gif. But video is not supported.
 
 ## Todo
 
@@ -14,6 +15,7 @@
 - [ ] Remove blur background
 - [X] Fix avatar image
 - [ ] Inject custom css/js
+- [ ] Add support for video
 
 ## Development and search
 
