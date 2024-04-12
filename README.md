@@ -12,7 +12,7 @@
 
 - [x] Add custom avatar and background
 - [ ] Remove blur background
-- [ ] Fix avatar image
+- [X] Fix avatar image
 - [ ] Inject custom css/js
 
 ## Development and search
